@@ -1,0 +1,14 @@
+body
+	{ 
+	background: #FFE4E1; 
+	background-image: url(http://i67.tinypic.com/2aet8n6.png); 
+	background-repeat: no-repeat;
+	background-position: right bottom; 
+	background-attachment: fixed; 
+	font-family: helvetica;
+	color: #DB7093;  }
+li {
+	display: list-item;
+	list-style-type: simp-chinese-informal;
+	text-align: -webkit-match-parent;
+}
