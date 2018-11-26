@@ -10,8 +10,9 @@ body
 	color: #DB7093;  
 }
 div.transparent {
+	
 	width: 700px;
-    margin: 25px 200px 25px;
+    margin: 0px 200px 75px;
     background-color: rgba(255, 244, 243, 0.6);
     border-radius: 25px;
 }
