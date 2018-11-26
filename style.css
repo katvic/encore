@@ -18,11 +18,13 @@ li {
 }
 ol { 
     padding: 0px 100px 0px;
+    font-style: italic;
 }
 h1 {
  	font-family: 'Amatic SC', cursive;
     font-size: 300%; 
     line-height: 0.1; 
+    color: #AC4F6D;
 }
 h2 {	
 	font-family: 'Lovers Quarrel', cursive;
@@ -34,4 +36,5 @@ h3	{
 	font-family: 'Cinzel Decorative', cursive;
 	text-decoration: bold;
 	font-size: 150%;
+	color: #AC4F6D;
 }
