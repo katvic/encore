@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Arizonia|Cinzel+Decorative|Lovers+Quarrel|Megrim');
 body
 	{ 
 	background: #FFE4E1; 
@@ -6,9 +7,31 @@ body
 	background-position: right bottom; 
 	background-attachment: fixed; 
 	font-family: helvetica;
-	color: #DB7093;  }
+	color: #DB7093;  
+}
 li {
 	display: list-item;
 	list-style-type: simp-chinese-informal;
 	text-align: -webkit-match-parent;
+	padding: 0px 150px 10px;
+
+}
+ol { 
+    padding: 0px 100px 0px;
+}
+h1 {
+ 	font-family: 'Amatic SC', cursive;
+    font-size: 300%; 
+    line-height: 0.1; 
+}
+h2 {	
+	font-family: 'Lovers Quarrel', cursive;
+	font-size: 250%;
+	line-height: 0.1; 
+}
+h3	{
+	padding: 0px 150px	0px;
+	font-family: 'Cinzel Decorative', cursive;
+	text-decoration: bold;
+	font-size: 150%;
 }
